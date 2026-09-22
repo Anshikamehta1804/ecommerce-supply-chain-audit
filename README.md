@@ -11,7 +11,8 @@ This project delivers an end-to-end operational performance audit of **10,999 e-
 
 ## 📊 Executive Dashboard Preview
 
-![Power BI Delivery Performance Dashboard](./power_bi_dashboard_preview.png)
+<img width="1600" height="1138" alt="power_bi_dashboard_preview" src="https://github.com/user-attachments/assets/7a1021fa-9b76-4dec-accb-63de0361b1e6" />
+
 
 ### Key Metrics Tracked:
 * **Total Audited Orders:** 10,999 shipments
